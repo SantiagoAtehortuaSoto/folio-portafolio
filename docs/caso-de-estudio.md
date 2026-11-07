@@ -75,10 +75,6 @@ no constituye alta disponibilidad.
 - Integrar autenticación y permisos multiusuario completos.
 - Ampliar la validación de despliegue y los recorridos automatizados.
 
-## Perfil profesional
-
-El caso permite conversar sobre pruebas de software, validación de datos,
-automatización web, APIs, SQL y documentación. Se presenta como proyecto personal,
-separado de la experiencia laboral y de cualquier material de empleadores.
+## Autor
 
 [Santiago Atehortua Soto en LinkedIn](https://www.linkedin.com/in/santiago-atehortua-soto-baa56a308/).

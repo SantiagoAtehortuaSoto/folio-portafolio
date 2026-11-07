@@ -15,3 +15,6 @@ node_modules/
 data/
 work/
 tmp/
+private/
+personal-notes/
+*.private.md
